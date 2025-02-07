@@ -67,7 +67,7 @@ expected:
 ```bash
 uv pip install gdown
 mkdir data
-gdown --folder https://drive.google.com/drive/folders/1amY4kuaZFWdpgHg4RfTrw9Qb-tKrM-8h -O data/original
+gdown --continue --folder https://drive.google.com/drive/folders/1amY4kuaZFWdpgHg4RfTrw9Qb-tKrM-8h -O data/original
 ```
 
 From the main repository, the folder structure should be as follows:
@@ -109,7 +109,7 @@ mv data/original/seq_* train/
 ### 3. Download Models
 
 ```bash
-gdown --folder https://drive.google.com/drive/folders/1-P1HN4FZEy3ETn5rrQiMoDQx3378HLQW -O models
+gdown --continue --folder https://drive.google.com/drive/folders/1-P1HN4FZEy3ETn5rrQiMoDQx3378HLQW -O models
 ```
 
 ### 4. Run Baseline Test
