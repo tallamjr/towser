@@ -33,6 +33,9 @@
   * [2. Download and Configure Dataset](#2-download-and-configure-dataset)
   * [3. Download Models](#3-download-models)
   * [4. Run Baseline Test](#4-run-baseline-test)
+* [Research](#research)
+  * [Notable Works](#notable-works)
+* [Tools](#tools)
 
 <!-- mtoc-end -->
 
@@ -147,3 +150,19 @@ Loading model /Users/tallam/github/tallamjr/forks/msis/.venv/lib/python3.10/site
 ```
 
 ... TBC ...
+
+## Research
+
+### Notable Works
+
+- [ICCV 2023 Tracking Anything with Decoupled Video Segmentation](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)
+- [Putting the Object Back into Video Object Segmentation](https://arxiv.org/pdf/2310.12982)
+- [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://arxiv.org/pdf/2112.08275)
+- [Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline]
+- [State Space Models for Event Cameras](https://arxiv.org/pdf/2402.15584v3)
+
+## Tools
+
+- [V2CE: Video to Continuous Events Simulator](https://github.com/ucsd-hdsi-dvs/V2CE-Toolbox)
+- [V2E: From video frames to DVS events](https://sites.google.com/view/video2events/home)
+  - [v2e Tutorial](https://colab.research.google.com/drive/1czx-GJnx-UkhFVBbfoACLVZs8cYlcr_M?usp=sharing)
