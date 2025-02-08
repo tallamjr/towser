@@ -158,7 +158,7 @@ Loading model /Users/tallam/github/tallamjr/forks/msis/.venv/lib/python3.10/site
 - [ICCV 2023 Tracking Anything with Decoupled Video Segmentation](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)
 - [Putting the Object Back into Video Object Segmentation](https://arxiv.org/pdf/2310.12982)
 - [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://arxiv.org/pdf/2112.08275)
-- [Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline]
+- [Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline](https://arxiv.org/pdf/2309.14611)
 - [State Space Models for Event Cameras](https://arxiv.org/pdf/2402.15584v3)
 
 ## Tools
